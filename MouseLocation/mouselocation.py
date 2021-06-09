@@ -10,4 +10,8 @@ while True:
     location = CurrentMouseX, currentMouseY = pyautogui.position()
     now = datetime.now()
     current_time = now.strftime("%H:%M:%S")
-    print("Location is", location, "Time of capturing is", current_time)
+    print("Location is", location, "Time of capturing is", current_time) # Out puts the location of the mouse and the time when the location was captured.
+   
+# Please make a pull request if you'd like to change a part of the code, I'd love your opinions.
+# MADE BY MANGOESS
+# INSPIRED BY SUPELION
