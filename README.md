@@ -1,5 +1,3 @@
-# INSPIRATION
-Inspiration taken by Supelion, Thank you ❤️, If you would ever like me to take it down, put an issue up!
 
 # AcaiTools
 My personal set of tools uploaded here on github!
